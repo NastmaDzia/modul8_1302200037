@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BG14IYEHJ1oiekPFPkXvT2ohvuCOCw3dsvhiEYUmO0UOdrzoTqEv3mM4lmZaCDF6x9ESVIp8G2t/amnN1j4AxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NASTMA DZIA ULHAQUE\\Documents\\Kuliah TEL-U\\SEMESTER 4\\KPL\\Praktikum\\modul8_1302200037\\modul8_1302200037\\modul8_1302200037.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\NASTMA DZIA ULHAQUE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
